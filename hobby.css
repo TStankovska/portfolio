@@ -1,0 +1,57 @@
+
+.startHobbies {
+    height: 27rem;
+    text-align: center;
+    margin: auto;
+}
+
+.hobbies {
+    border-radius: 2%;
+}
+
+.hobbiesDiv {
+    height: 30rem;
+}
+
+.hobbiesDiv div {
+    width: 30%;
+    display: inline-block;
+    margin-right: 3%;
+}
+
+.hobbiesDiv p {
+    text-align: center;
+}
+
+
+.hobbiesDiv img {
+    height: 15rem;
+    width: 100%;
+    border-radius: 3%;
+}
+
+.hobbiesDiv2 div {
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 3%;
+}
+
+.programming {
+    margin-left: 16.5%;
+}
+
+.hobbiesDiv2 img {
+    height: 15rem;
+    width: 100%;
+    border-radius: 3%;
+}
+
+.line {
+    height: 3px;
+    width: 100%;
+    border: 1px black solid;
+    background: #9a0f3c;
+    margin-bottom: 1.3rem;
+}
+

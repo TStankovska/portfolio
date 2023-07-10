@@ -1,0 +1,35 @@
+
+.contact {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.box {
+    width: 60%;
+    height: 20rem;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 2%;
+}
+
+.logo {
+    width: 3rem;
+    height: 3rem;
+}
+
+.outerbox {
+    height: 24rem;
+}
+
+table {
+    width: 60%;
+    margin: 2.5rem auto auto;
+}
+
+table td:nth-child(1) {
+    text-align: left;
+    width: 60%;
+}
+table td:nth-child(2) {
+    text-align: left;
+}

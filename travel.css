@@ -1,0 +1,42 @@
+.leftTravel {
+    margin-top: 5rem;
+    width: 35%;
+    height: 25rem;
+    vertical-align: middle;
+    text-align: justify;
+}
+
+.rightTravel {
+    float: right;
+    width: 60%;
+    margin-left: 50%;
+    vertical-align: middle;
+    margin-top: -25rem;
+}
+
+.leftTravel2 {
+    margin-top: 5rem;
+    width: 60%;
+    height: 25rem;
+    vertical-align: middle;
+}
+
+.rightTravel2 {
+    float: right;
+    width: 35%;
+    margin-left: 50%;
+    vertical-align: middle;
+    margin-top: -26rem;
+    text-align: justify;
+}
+
+.travelPhoto {
+    height: 25rem;
+    width: 100%;
+    border-radius: 2%;
+}
+
+.bio {
+    width: 100%;
+    display: inline-block;
+}
